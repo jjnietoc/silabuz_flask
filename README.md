@@ -1,12 +1,12 @@
 # silabuz_flask
 
-#### this is a simple flask project that allows you to write and share posts with friends.
-for this project I used:
+### this is a simple flask project that allows you to write and share posts with friends.
+#### for this project I used:
 * python and flask
 * mysql 
 * basic html and css
 
-you can clone and use this project in the following way:
+#### you can clone and use this project in the following way:
 1. clone the github project
 2. install requirements
     * pip install -r requirements
